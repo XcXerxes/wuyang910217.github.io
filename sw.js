@@ -24,7 +24,7 @@ var precacheUrls = [];
 
   precacheUrls.push('/');
 
-  precacheUrls.push('/2016/11/12/meteor-react-code-snippets.html');
+  precacheUrls.push('/2016/08/16/meteor-react-init.html');
 
   precacheUrls.push('/2016/11/24/what-have-done-by-philosopher.html');
 
@@ -34,15 +34,15 @@ var precacheUrls = [];
 
   precacheUrls.push('/2017/03/09/mac-useful-software.html');
 
-  precacheUrls.push('/2016/09/15/react-enhanced-component-demo.html');
+  precacheUrls.push('/2016/09/02/react-proptypes.html');
 
   precacheUrls.push('/2016/11/10/kindle-notes-export.html');
 
   precacheUrls.push('/2016/11/13/the-alchemist.html');
 
-  precacheUrls.push('/2016/09/02/react-proptypes.html');
+  precacheUrls.push('/2016/11/12/meteor-react-code-snippets.html');
 
-  precacheUrls.push('/2016/09/08/react-bind-three-ways.html');
+  precacheUrls.push('/2016/09/15/react-enhanced-component-demo.html');
 
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
