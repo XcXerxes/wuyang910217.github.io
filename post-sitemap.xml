@@ -71,14 +71,6 @@
     </url>
 
     <url>
-        <loc>http://wuyang910217.github.io/2016/08/18/meteor-try-catch-handle-error.html</loc>
-        <lastmod>2018-01-25T02:51:03.808Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://wuyang910217.github.io/2016/09/08/react-bind-three-ways.html</loc>
         <lastmod>2018-01-25T02:51:03.808Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,8 +79,8 @@
     </url>
 
     <url>
-        <loc>http://wuyang910217.github.io/2017/03/09/mac-useful-software.html</loc>
-        <lastmod>2018-01-25T02:51:03.807Z</lastmod>
+        <loc>http://wuyang910217.github.io/2016/08/18/meteor-try-catch-handle-error.html</loc>
+        <lastmod>2018-01-25T02:51:03.808Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -103,7 +95,7 @@
     </url>
 
     <url>
-        <loc>http://wuyang910217.github.io/2016/11/12/meteor-react-code-snippets.html</loc>
+        <loc>http://wuyang910217.github.io/2016/08/12/meteor-github-login.html</loc>
         <lastmod>2018-01-25T02:51:03.807Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -111,7 +103,15 @@
     </url>
 
     <url>
-        <loc>http://wuyang910217.github.io/2016/08/12/meteor-github-login.html</loc>
+        <loc>http://wuyang910217.github.io/2017/03/09/mac-useful-software.html</loc>
+        <lastmod>2018-01-25T02:51:03.807Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/11/12/meteor-react-code-snippets.html</loc>
         <lastmod>2018-01-25T02:51:03.807Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
